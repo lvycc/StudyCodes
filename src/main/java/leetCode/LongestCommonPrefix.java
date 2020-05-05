@@ -1,7 +1,7 @@
 package leetCode;
 
 /**
- * @author wangbingyan
+ * @author ycc
  * @date 2020/5/5
  * @desc 最长公共前缀
  */
