@@ -19,16 +19,14 @@ public class LongestCommonPrefix {
         boolean end = false;
         String result = "";
         for (int i = 0; i < strs[0].length(); i++) {
-            int flag = -1;
-            for (String s : strs) {
-                if (s.length() <= i) {
+            char flag = strs[0].charAt(i);
+            for (int j = 1; j < strs.length; j++) {
+                if (strs[j].length() <= i) {
                     end = true;
                     break;
                 }
-                char c = s.charAt(i);
-                if (flag == -1) {
-                    flag = c - 'a';
-                } else if (flag != c - 'a') {
+                char c = strs[j].charAt(i);
+                if (flag != c) {
                     end = true;
                     break;
                 }
