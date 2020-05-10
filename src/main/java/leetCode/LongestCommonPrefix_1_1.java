@@ -5,7 +5,7 @@ package leetCode;
  * @date 2020/5/5
  * @desc 最长公共前缀
  */
-public class LongestCommonPrefix {
+public class LongestCommonPrefix_1_1 {
 
     /**
      * 个人做法
