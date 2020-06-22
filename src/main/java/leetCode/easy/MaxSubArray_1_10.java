@@ -45,7 +45,7 @@ public class MaxSubArray_1_10 {
         if (nums.length == 1) {
             return nums[0];
         }
-        int pre = nums[0];
+        int pre = 0;
         int ans = nums[0];
         for (int i = 0; i < nums.length; i++) {
             pre = Math.max(pre + nums[i], nums[i]);
