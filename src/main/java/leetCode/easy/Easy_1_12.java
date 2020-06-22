@@ -10,7 +10,7 @@ package leetCode.easy;
  *
  * 你可以假设除了整数 0 之外，这个整数不会以零开头。
  */
-public class PlusOne_1_12 {
+public class Easy_1_12 {
 
     /**
      * 我的做法

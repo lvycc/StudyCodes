@@ -5,7 +5,7 @@ package leetCode.easy;
  * @date 2020/5/9
  * @desc 平方根
  */
-public class SquareRoot_1_3 {
+public class Easy_1_3 {
 
     /**
      * 个人做法 直接使用Math工具类的求平方根函数

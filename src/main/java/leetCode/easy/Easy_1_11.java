@@ -8,7 +8,7 @@ package leetCode.easy;
  *
  * 如果不存在最后一个单词，请返回 0 。
  */
-public class LengthOfLastWord_1_11 {
+public class Easy_1_11 {
 
     /**
      * 我的做法

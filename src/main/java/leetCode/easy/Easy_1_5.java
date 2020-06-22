@@ -5,7 +5,7 @@ package leetCode.easy;
  * @date 2020/5/18
  * @desc 删除排序数组中的重复项
  */
-public class RemoveDuplicates_1_5 {
+public class Easy_1_5 {
 
     public static int removeDuplicates(int[] nums) {
         int nowIndex = 0;

@@ -7,7 +7,7 @@ package leetCode.easy;
  *
  * 你可以假设数组中无重复元素。
  */
-public class SearchInsert_1_8 {
+public class Easy_1_8 {
 
     /**
      * 我的做法

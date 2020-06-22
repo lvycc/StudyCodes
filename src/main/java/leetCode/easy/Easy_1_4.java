@@ -7,7 +7,7 @@ import java.util.Objects;
  * @date 2020/5/10
  * @desc 合并两个有序链表
  */
-public class MergeTwoLists_1_4 {
+public class Easy_1_4 {
 
     public static class ListNode {
         int val;

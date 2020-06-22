@@ -10,7 +10,7 @@ package leetCode.easy;
  * 4.     1211
  * 5.     111221
  */
-public class CountAndSay_1_9 {
+public class Easy_1_9 {
 
     /**
      * 我的做法

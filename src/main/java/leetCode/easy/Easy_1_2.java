@@ -7,7 +7,7 @@ import java.util.Stack;
  * @date 2020/5/6
  * @desc 有效的括号
  */
-public class EffectiveParenthesis_1_2 {
+public class Easy_1_2 {
 
     /**
      * 我的做法
